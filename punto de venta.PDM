@@ -1,0 +1,558 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 2
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\walter\Desktop\para motos\Paquete
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Windows\System32\MSEXCH35.DLL=
+C:\Windows\System32\wmp.dll=
+C:\Windows\System32\FM20.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\Windows\System32\COMCTL32.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+c:\users\walter\desktop\programa motos.exe=
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTES.DLL=Yes
+C:\Windows\System32\FM20.DLL=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCES.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\DBRPRES.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\FLXGDES.DLL=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\DATGDES.DLL=Yes
+C:\Windows\System32\COMCTL32.OCX=Yes
+C:\Windows\System32\CMCTLES.DLL=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Windows\System32\MSXBSE35.DLL=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\RDO20ES.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=Yes
+C:\Windows\System32\MSEXCL35.DLL=Yes
+C:\Windows\System32\MSEXCH35.DLL=Yes
+C:\Windows\System32\MSLTUS35.DLL=Yes
+C:\Windows\System32\MSPDOX35.DLL=Yes
+C:\Windows\System32\MSTEXT35.DLL=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Users\walter\Desktop\PROGRAMA MOTOS.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTES.DLL=$(WinSysPath)
+C:\Windows\System32\FM20.DLL=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\DBRPRES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\FLXGDES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\DATGDES.DLL=$(WinSysPath)
+C:\Windows\System32\COMCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\CMCTLES.DLL=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Windows\System32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\RDO20ES.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Windows\System32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSEXCH35.DLL=$(WinSysPath)
+C:\Windows\System32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Users\walter\Desktop\PROGRAMA MOTOS.exe=No
+C:\Windows\System32\wmp.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=THE EXPERTS punto de venta
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=THE EXPERTS          sofware
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|THE EXPERTS          sofware]
+Icon1="PROGRAMA MOTOS.exe"
+Title1=THE EXPERTS          sofware
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Users\walter\Desktop\para motos\Paquete
+ProjectFolder=C:\Users\walter\Desktop\para motos
+ServerSideCab=
+File1=C:\Users\walter\Desktop\para motos\Paquete\setup.exe
+File2=C:\Users\walter\Desktop\para motos\Paquete\Setup.Lst
+File3=C:\Users\walter\Desktop\para motos\Paquete\PROGRAMA1  MOTOS.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|instalador THE EXPERTS|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=c:\para motos
+
+[Package|instalador THE EXPERTS|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|instalador THE EXPERTS|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|instalador THE EXPERTS|Files Found]
+
+[Package|instalador THE EXPERTS|Files Released]
+
+[Package|instalador THE EXPERTS|Missing Dependency Information]
+C:\Windows\System32\MSEXCH35.DLL=
+C:\Windows\System32\wmp.dll=
+C:\Windows\System32\FM20.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|instalador THE EXPERTS|Out-of-Date Dependency Information]
+C:\Windows\System32\COMCTL32.OCX=
+
+[Package|instalador THE EXPERTS|Files Added]
+
+[Package|instalador THE EXPERTS|Files Removed]
+c:\users\walter\desktop\programa motos.exe=
+
+[Package|instalador THE EXPERTS|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTES.DLL=Yes
+C:\Windows\System32\FM20.DLL=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCES.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\DBRPRES.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\FLXGDES.DLL=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\DATGDES.DLL=Yes
+C:\Windows\System32\COMCTL32.OCX=Yes
+C:\Windows\System32\CMCTLES.DLL=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Windows\System32\MSXBSE35.DLL=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\RDO20ES.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Windows\System32\MSEXCL35.DLL=Yes
+C:\Windows\System32\MSEXCH35.DLL=Yes
+C:\Windows\System32\MSLTUS35.DLL=Yes
+C:\Windows\System32\MSPDOX35.DLL=Yes
+C:\Windows\System32\MSTEXT35.DLL=Yes
+C:\para motos\PROGRAMA1  MOTOS.exe=Yes
+C:\Program Files\Common Files\System\ado\msado15.dll=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\CMDLGES.DLL=Yes
+C:\Windows\System32\odbc32.dll=Yes
+
+[Package|instalador THE EXPERTS|Configure Registry Files]
+Applicable=No
+
+[Package|instalador THE EXPERTS|Configure Remote Servers]
+Applicable=No
+
+[Package|instalador THE EXPERTS|Install Locations]
+C:\Users\walter\Desktop\PROGRAMA MOTOS.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTES.DLL=$(WinSysPath)
+C:\Windows\System32\FM20.DLL=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\DBRPRES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\FLXGDES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\DATGDES.DLL=$(WinSysPath)
+C:\Windows\System32\COMCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\CMCTLES.DLL=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Windows\System32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\RDO20ES.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Windows\System32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSEXCH35.DLL=$(WinSysPath)
+C:\Windows\System32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=$(AppPath)
+C:\para motos\PROGRAMA1  MOTOS.exe=$(AppPath)
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\CMDLGES.DLL=$(WinSysPath)
+C:\Windows\System32\odbc32.dll=$(WinSysPathSysFile)
+
+[Package|instalador THE EXPERTS|Configure Shared Files]
+Applicable=Yes
+C:\Users\walter\Desktop\PROGRAMA MOTOS.exe=No
+C:\Windows\System32\wmp.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=No
+
+[Package|instalador THE EXPERTS|Distribution]
+Type=single
+Size=1.44 MB
+Title=THE EXPERTS punto de venta
+
+[Package|instalador THE EXPERTS|IconGroups]
+Group0=THE EXPERTS          sofware
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|instalador THE EXPERTS|THE EXPERTS          sofware]
+Icon1="PROGRAMA MOTOS.exe"
+Title1=THE EXPERTS          sofware
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|instalador THE EXPERTS|DepFile]
+DepCabFile=PROGRAMA1  MOTOS.CAB
+DepCabRun=PROGRAMA1  MOTOS.INF
+
+[Package|instalador THE EXPERTS|Package]
+PackageFolder=c:\para motos
+ProjectFolder=C:\para motos
+ServerSideCab=
+File1=c:\para motos\PROGRAMA1  MOTOS.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Paquete de instalación estándar 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\INSTALADOR THE EXPERTS
+
+[Package|Paquete de instalación estándar 2|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|Paquete de instalación estándar 2|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Paquete de instalación estándar 2|Files Found]
+
+[Package|Paquete de instalación estándar 2|Files Released]
+
+[Package|Paquete de instalación estándar 2|Missing Dependency Information]
+C:\Windows\System32\MSEXCH35.DLL=
+C:\Windows\System32\wmp.dll=
+C:\Windows\System32\FM20.DLL=
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|Paquete de instalación estándar 2|Out-of-Date Dependency Information]
+C:\Windows\System32\COMCTL32.OCX=
+
+[Package|Paquete de instalación estándar 2|Files Added]
+
+[Package|Paquete de instalación estándar 2|Files Removed]
+c:\users\walter\desktop\programa motos.exe=
+
+[Package|Paquete de instalación estándar 2|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTES.DLL=Yes
+C:\Windows\System32\FM20.DLL=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCES.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\DBRPRES.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\FLXGDES.DLL=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\DATGDES.DLL=Yes
+C:\Windows\System32\COMCTL32.OCX=Yes
+C:\Windows\System32\CMCTLES.DLL=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Windows\System32\MSXBSE35.DLL=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\RDO20ES.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Windows\System32\MSEXCL35.DLL=Yes
+C:\Windows\System32\MSEXCH35.DLL=Yes
+C:\Windows\System32\MSLTUS35.DLL=Yes
+C:\Windows\System32\MSPDOX35.DLL=Yes
+C:\Windows\System32\MSTEXT35.DLL=Yes
+C:\para motos\PROGRAMA1  MOTOS.exe=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\CMDLGES.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Paquete de instalación estándar 2|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Install Locations]
+C:\Users\walter\Desktop\PROGRAMA MOTOS.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTES.DLL=$(WinSysPath)
+C:\Windows\System32\FM20.DLL=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\DBRPRES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\FLXGDES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\DATGDES.DLL=$(WinSysPath)
+C:\Windows\System32\COMCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\CMCTLES.DLL=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Windows\System32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\RDO20ES.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Windows\System32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSEXCH35.DLL=$(WinSysPath)
+C:\Windows\System32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=$(AppPath)
+C:\para motos\PROGRAMA1  MOTOS.exe=$(AppPath)
+C:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\CMDLGES.DLL=$(WinSysPath)
+C:\Windows\System32\odbc32.dll=$(WinSysPathSysFile)
+
+[Package|Paquete de instalación estándar 2|Configure Shared Files]
+Applicable=Yes
+C:\Users\walter\Desktop\PROGRAMA MOTOS.exe=No
+C:\Windows\System32\wmp.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\walter\Desktop\PROGRAMA1  MOTOS.exe=No
+C:\para motos\PROGRAMA1  MOTOS.exe=Yes
+
+[Package|Paquete de instalación estándar 2|Distribution]
+Type=single
+Size=1.44 MB
+Title=THE EXPERTS punto de venta
+
+[Package|Paquete de instalación estándar 2|DepFile]
+DepCabFile=PROGRAMA1  MOTOS.CAB
+DepCabRun=PROGRAMA1  MOTOS.INF
+
+[Package|Paquete de instalación estándar 2|IconGroups]
+Group0=THE EXPERTS          sofware
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 2|THE EXPERTS          sofware]
+Icon1="PROGRAMA MOTOS.exe"
+Title1=THE EXPERTS          sofware
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 2|Package]
+PackageFolder=d:\INSTALADOR THE EXPERTS
+ProjectFolder=C:\para motos
+ServerSideCab=
+File1=d:\INSTALADOR THE EXPERTS\setup.exe
+File2=d:\INSTALADOR THE EXPERTS\Setup.Lst
+File3=d:\INSTALADOR THE EXPERTS\PROGRAMA1  MOTOS.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,53 @@
+[Version]
+Version=1.0.0.0
+
+[PROGRAMA1  MOTOS.exe <000A>]
+Dest=$(AppPath)
+Date=27/02/2020
+Time=12:26
+Version=1.0.0.0
+CABFilename=PROGRAMA1  MOTOS.CAB
+CABINFFile=PROGRAMA1  MOTOS.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=VB6ES.DLL
+Uses8=msado20.tlb
+Uses9=MSBIND.DLL
+Uses10=MSDBRPTR.DLL
+Uses11=MSDERUN.DLL
+Uses12=DAO350.DLL
+Uses13=wmp.dll
+Uses14=FM20.DLL
+Uses15=MSADODC.OCX
+Uses16=MSFLXGRD.OCX
+Uses17=MSDATGRD.OCX
+Uses18=COMCTL32.OCX
+Uses19=COMDLG32.OCX
+
+[msado20.tlb <000A>]
+Dest=$(WinSysPath)
+Date=05/06/2012
+Time=22:51
+Version=6.1.7601.17857
+
+[wmp.dll <000A>]
+Dest=$(AppPath)
+Date=12/06/2019
+Time=10:21
+Version=12.0.7601.24499
+
+[FM20.DLL <000A>]
+Dest=$(WinSysPath)
+Date=31/12/2011
+Time=14:04
+Version=15.0.3628.1000
+
+[MSEXCH35.DLL <000A>]
+Dest=$(WinSysPath)
+Date=25/04/1998
+Time=00:00
+Version=3.51.623.0

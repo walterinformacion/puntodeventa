@@ -1,0 +1,72 @@
+
+
+
+CENTRAL DE LLANTAS
+NIT:1017237049
+DIAGONAL 56 #42-03
+BELLO NIQUIA
+   ******REPUESTOS PARA MOTO*******
+CLIENTE:
+                     VENTA MOSTRADOR
+NIT:
+  TEL:
+ DIR:
+==================================
+ NUMERO DE FACTURA
+        FECHA 21/03/2020                   HORA 16:26
+  VENDEDOR
+==================================
+==================================
+can      precio              descuento                        total
+
+Sacapuntas
+1         $ 2.000                                        $ 2.000
+------------------------------------------------------------------
+Mochila
+1         $ 35.000                                      $ 35.000
+------------------------------------------------------------------
+Regla
+1         $ 5.500                                        $ 5.500
+------------------------------------------------------------------
+lapiz
+1         $ 500                                            $ 500
+------------------------------------------------------------------
+                              SUBTOTAL:                       $0
+                           DESCUENTO:                         $0
+                                TOTAL:                       $0
+
+                  ***** FACTURACION TIPO POS ****
+                 **** PASADO 5 DIAS NO SE ACEPTA ****
+                        **** DEVOLUCION ****
+
+                   ** PARTES ELECTRICAS NO TIENEN **
+                     **** TIENE GARANTI ****
+
+  CONSERVE LA FACTURA PARA GARANTIAS
+
+
+                                                  *100*
+
+     @CENTRALDELLANTAS1
+     @BLBMOTOS                             CODEbar 128
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
